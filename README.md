@@ -10,6 +10,12 @@ I suggest first setting up a local environment for developing code. You may
 later want to upload your code to [Google Colab](https://colab.research.google.com)
 to try running with a GPU.
 
+### 0. Clone this repository
+Follow the instructions on this Github page to check out a local copy of this code. This should look something like
+```
+git clone https://github.com/<path>
+```
+
 ### 1. Install Python
 We will require Python >= 3.9.
 
